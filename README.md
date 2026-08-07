@@ -30,6 +30,16 @@
 - [Genetic Memory](ai-architecture-topics/genetic-memory.md) - Vector memory, knowledge graphs, and retention
 - [On-Device vs VM](ai-architecture-topics/on-device-vs-vm.md) - Latency, privacy, and hardware trade-offs
 
+### 💻 AI for Software Engineering Skills
+- [AI Coding Foundations & Trust](ai-for-software-engineering-skills/ai-coding-foundations.md) - AI coding interaction modes, human accountability, and safe adoption
+- [Context, Model & Prompt](ai-for-software-engineering-skills/context-model-prompt.md) - Curate context, route tasks to suitable models, and request verifiable output
+- [Specification-Driven Development](ai-for-software-engineering-skills/specification-driven-development.md) - Durable specs, API contracts, task decomposition, and validation
+- [Secure Model Selection, Privacy & AI Skills](ai-for-software-engineering-skills/secure-model-selection-and-skills.md) - Private evaluations, data controls, least privilege, and reusable workflows
+- [Multi-Agent Coding Workflows](ai-for-software-engineering-skills/multi-agent-coding-workflows.md) - Specialized roles, artifact handoffs, and human phase gates
+- [Model Context Protocol (MCP)](ai-for-software-engineering-skills/model-context-protocol.md) - Safe, standard connectivity from AI clients to engineering tools
+- [AI PR Review Automation & Hooks](ai-for-software-engineering-skills/ai-pr-review-automation.md) - First-pass review, workflow triggers, and quality automation
+- [Agentic Systems Architecture & Frameworks](ai-for-software-engineering-skills/agentic-systems-architecture.md) - Governed agent platforms, BMAD Method, and Superpowers
+
 ### 🎓 Learning Resources
 - [Courses](courses.md) - AI engineering and solution architecture courses
 - [Certifications](certifications.md) - AI engineering, solution architecture and cloud certifications
@@ -116,4 +126,3 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 *Contributions welcome! Feel free to open issues or submit pull requests.*
 
 </div>
-
