@@ -152,6 +152,7 @@ summary: "Navigate your AI architecture career with role snapshots, portfolio ti
 - **Ignoring keywords**: Include relevant terms for ATS systems and recruiters
 
 ## Deep Dives & "Why it's awesome"
+- **[ResumeAI](https://withresumeai.com/)** - Free ATS resume checker (3/day anonymous, 10/day free account) + open [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) dataset
 - **[TealHQ Career Paths](https://www.tealhq.com/career-paths)** - Comprehensive career guidance with salary data and skill requirements
 - **[LinkedIn AI Architecture Jobs](https://www.linkedin.com/jobs/ai-architect-jobs/)** - Real job postings showing current market requirements
 - **[AWS Solutions Architect Blog](https://aws.amazon.com/blogs/architecture/)** - Industry insights and best practices from AWS experts
